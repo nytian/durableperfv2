@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DFPerfScenarios": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true"
+      }
+    }
+  }
+}

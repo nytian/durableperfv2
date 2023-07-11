@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=durableperftest;AccountKey=cF6rdi7sYHawdd8/OnTfICNYl9lphtFg2LG3rEYxlKQh4kqL1pQO26pQkW8GmTlI8ZLiKScRhBa1pkQTWpZhPw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": false,
+      "restoreTime": "2023-07-11T00:50:20.9363212Z"
+    }
+  },
+  "parameters": {
+    "pertfTest.resourceGroupName": {
+      "Name": "pertfTest.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "pertfTest_group"
+    },
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "pertfTest_group"
+    },
+    "storage1.resourceGroupLocation": {
+      "Name": "storage1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastus"
+    },
+    "pertfTest.resourceName": {
+      "Name": "pertfTest.resourceName",
+      "Type": null,
+      "Value": "pertfTest"
+    },
+    "pertfTest.resourceGroupLocation": {
+      "Name": "pertfTest.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "3f21cfe2-3366-46da-b4f7-61fbadbe565b"
+    },
+    "pertfTest.subscriptionId": {
+      "Name": "pertfTest.subscriptionId",
+      "Type": "subscription",
+      "Value": "3f21cfe2-3366-46da-b4f7-61fbadbe565b"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "3f21cfe2-3366-46da-b4f7-61fbadbe565b"
+    }
+  }
+}

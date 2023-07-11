@@ -1,0 +1,13 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.3",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "activityTrigger",
+      "name": "url"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/DFPerfScenarios.dll",
+  "entryPoint": "DFPerfScenarios.MapReduceTripData.ProcessTripDataFile"
+}
